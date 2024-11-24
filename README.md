@@ -1,1 +1,1 @@
-- Praktikum mata kuliah pembelajaran mesin pertemuan 12.
+Praktikum mata kuliah pembelajaran mesin pertemuan 12.
